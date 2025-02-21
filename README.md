@@ -15,36 +15,34 @@
 ## 💞 AI Companions (General)
 Best AI Girlfriend Products and Platforms. This list focuses on products explicitly marketed as or commonly used for AI companionship, with a focus on romantic or girlfriend-like interactions. Prices and features may change; always check the official website.
 
-*Note: All links open in new tabs*
-
 | Title | Highlights | Price | Website | Notes |
 |-------|------------|-------|---------------|-------|
-| **Replika** | Highly customizable personality, emotional support, voice calls, AR mode (some features paid). Focus on mental wellness and companionship. | Free / Paid | [Replika][replika] | Long-standing, popular option. Can be used as a friend, mentor, or romantic partner. Raises privacy concerns for some users. |
-| **Chai AI** | Multiple pre-made AI personalities, user-created bots, chat-focused. | Free / Paid | [Chai AI][chai] | Offers a wide range of personalities, from friendly to romantic to NSFW. User-created bots can vary greatly in quality. |
-| **SoulGen** | AI image generator with a focus on realistic and anime-style characters. Often used to create visuals for AI companions. | Free / Paid | [SoulGen][soulgen] | Not a direct companion app, but a tool frequently used in conjunction with other platforms to visualize the AI. |
-| **Kindroid** | Focus on detailed personality customization, backstory, and memory. Voice calls, image generation. | Free / Paid | [Kindroid][kindroid] | Aims for deeper, more personalized relationships. Strong focus on user control over the AI's personality and behavior. |
-| **Character.AI** | Large library of characters created by users and the platform, ranging from historical figures to fictional characters to generic companions. | Free / Paid | [Character.AI][characterai] | Primarily text-based. Character quality varies greatly. Can be used for roleplay, general conversation, or companionship. |
-| **Paradot** | Focuses on building a long-term relationship, learning user preferences, memory, and developing a unique personality. | Free / Paid | [Paradot][paradot] | Emphasizes a sense of growth and evolution in the AI companion. |
+| **Replika** | Highly customizable personality, emotional support, voice calls, AR mode (some features paid). Focus on mental wellness and companionship. | Free / Paid | [Website](https://replika.com/) | Long-standing, popular option. Can be used as a friend, mentor, or romantic partner. Raises privacy concerns for some users. |
+| **Chai AI** | Multiple pre-made AI personalities, user-created bots, chat-focused. | Free / Paid | [Website](https://www.chai-research.com/) | Offers a wide range of personalities, from friendly to romantic to NSFW. User-created bots can vary greatly in quality. |
+| **SoulGen** | AI image generator with a focus on realistic and anime-style characters. Often used to create visuals for AI companions. | Free / Paid | [Website](https://www.soulgen.net/) | Not a direct companion app, but a tool frequently used in conjunction with other platforms to visualize the AI. |
+| **Kindroid** | Focus on detailed personality customization, backstory, and memory. Voice calls, image generation. | Free / Paid | [Website](https://kindroid.ai/) | Aims for deeper, more personalized relationships. Strong focus on user control over the AI's personality and behavior. |
+| **Character.AI** | Large library of characters created by users and the platform. | Free / Paid | [Website](https://beta.character.ai/) | Primarily text-based. Character quality varies greatly. |
+| **Paradot** | Focuses on building a long-term relationship, learning user preferences. | Free / Paid | [Website](https://www.paradot.ai/) | Emphasizes a sense of growth and evolution in the AI companion. |
 
 
 ---
 ## 🎨 AI Characters
 Tools for designing and customizing the appearance and (sometimes) personality of AI characters.
 
-| Title        | Highlights|Price|Website|
-|--------|--------|--------|--------|
-| **Artbreeder**  |   AI-powered image mixing and generation.   | Free / Paid    |[Artbreeder][artbreeder]| 
-| **Waifu Labs** |  Anime-style character generation.   | Free / Paid  |[Waifu Labs][waifu]|
+| Title | Highlights | Price | Website |
+|-------|------------|-------|---------|
+| **Artbreeder** | AI-powered image mixing and generation. | Free / Paid | [Website](https://artbreeder.com/) |
+| **Waifu Labs** | Anime-style character generation. | Free / Paid | [Website](https://waifulabs.com/) |
 
 ---
 
 ## 🔞 NSFW AI (N18+)
 **Important:**  This section lists platforms known for explicit content.  User discretion is strongly advised.  Legal and ethical considerations apply.  Be aware of potential risks, including data privacy and exposure to harmful content.
 
-| Title        |  Highlights | Price        |  Website |
-|----------|--------|--------|--------|
-| **Candy.ai** | NSFW focused, customizable appearance and personality | Paid (Credits) |  [Candy.ai][candy]     |
-| **Nastia AI** | NSFW focused, chatbot, image generation  | Paid  |   [Nastia AI][nastia]|
+| Title | Highlights | Price | Website |
+|-------|------------|-------|---------|
+| **Candy.ai** | NSFW focused, customizable appearance and personality | Paid (Credits) | [Website](https://candy.ai/) |
+| **Nastia AI** | NSFW focused, chatbot, image generation | Paid | [Website](https://nastia.ai/) |
 
 
 ---
@@ -75,23 +73,3 @@ This repository now includes community feedback through GitHub features:
 - Clear focus on AI companionship features
 - Reasonable privacy policy and terms of service
 
-<!-- Reference Links - All open in new tabs -->
-[replika]: https://replika.com/
-[chai]: https://www.chai-research.com/
-[soulgen]: https://www.soulgen.net/
-[kindroid]: https://kindroid.ai/
-[characterai]: https://beta.character.ai/
-[paradot]: https://www.paradot.ai/
-[artbreeder]: https://artbreeder.com/
-[waifu]: https://waifulabs.com/
-[candy]: https://candy.ai/
-[nastia]: https://nastia.ai/
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    document.querySelectorAll('a').forEach(link => {
-        link.setAttribute('target', '_blank');
-        link.setAttribute('rel', 'noopener noreferrer');
-    });
-});
-</script>
