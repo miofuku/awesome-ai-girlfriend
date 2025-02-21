@@ -29,10 +29,10 @@ Best AI Girlfriend Products and Platforms. This list focuses on products explici
 ## 🎨 AI Characters
 Tools for designing and customizing the appearance and (sometimes) personality of AI characters.
 
-| Title        | Highlights|Price|
-|--------|--------|--------|
-| **Artbreeder**  |   AI-powered image mixing and generation.   | Free / Paid    |
-| **Waifu Labs** |  Anime-style character generation.   | Free / Paid  |
+| Title        | Highlights|Price|Website|
+|--------|--------|--------|--------|
+| **Artbreeder**  |   AI-powered image mixing and generation.   | Free / Paid    |[Artbreeder Website](https://artbreeder.com/)| 
+| **Waifu Labs** |  Anime-style character generation.   | Free / Paid  |[Waifu Labs Website](https://waifulabs.com/)|
 
 ---
 
@@ -41,9 +41,9 @@ Tools for designing and customizing the appearance and (sometimes) personality o
 
 | Title        |  Highlights | Price        |  Website |
 |----------|--------|--------|--------|
-| **Candy.ai** (listed above) | NSFW focused, customizable appearance and personality | Paid (Credits) |  [Candy.ai Website](https://candy.ai/)     |
+| **Candy.ai** | NSFW focused, customizable appearance and personality | Paid (Credits) |  [Candy.ai Website](https://candy.ai/)     |
 | **Nastia AI** | NSFW focused, chatbot, image generation  | Paid  |   [Nastia AI](https://nastia.ai/)|
-| **many others** | New NSFW-focused AI companion apps and websites are appearing frequently. |  Varies     |   (Use search engines with caution) |
+
 
 ---
 
