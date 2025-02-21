@@ -17,12 +17,12 @@ Best AI Girlfriend Products and Platforms. This list focuses on products explici
 
 | Title | Highlights | Price | Website | Notes |
 |-------|------------|-------|---------------|-------|
-| **Replika** | Highly customizable personality, emotional support, voice calls, AR mode (some features paid). Focus on mental wellness and companionship. | Free / Paid | [Replika Website](https://replika.com/) | Long-standing, popular option. Can be used as a friend, mentor, or romantic partner. Raises privacy concerns for some users. |
-| **Chai AI** | Multiple pre-made AI personalities, user-created bots, chat-focused. | Free / Paid | [Chai AI Website](https://www.chai-research.com/) | Offers a wide range of personalities, from friendly to romantic to NSFW. User-created bots can vary greatly in quality. |
-| **SoulGen** | AI image generator with a focus on realistic and anime-style characters. Often used to create visuals for AI companions. | Free / Paid | [SoulGen Website](https://www.soulgen.net/) | Not a direct companion app, but a tool frequently used in conjunction with other platforms to visualize the AI. |
-| **Kindroid** | Focus on detailed personality customization, backstory, and memory. Voice calls, image generation. | Free / Paid | [Kindroid Website](https://kindroid.ai/) | Aims for deeper, more personalized relationships. Strong focus on user control over the AI's personality and behavior. |
-| **Character.AI** | Large library of characters created by users and the platform, ranging from historical figures to fictional characters to generic companions. | Free / Paid | [Character.AI Website](https://beta.character.ai/) | Primarily text-based. Character quality varies greatly. Can be used for roleplay, general conversation, or companionship. |
-| **Paradot** | Focuses on building a long-term relationship, learning user preferences, memory, and developing a unique personality. | Free / Paid | [Paradot Website](https://www.paradot.ai/) | Emphasizes a sense of growth and evolution in the AI companion. |
+| **Replika** | Highly customizable personality, emotional support, voice calls, AR mode (some features paid). Focus on mental wellness and companionship. | Free / Paid | <a href="https://replika.com/" target="_blank">Replika Website</a> | Long-standing, popular option. Can be used as a friend, mentor, or romantic partner. Raises privacy concerns for some users. |
+| **Chai AI** | Multiple pre-made AI personalities, user-created bots, chat-focused. | Free / Paid | <a href="https://www.chai-research.com/" target="_blank">Chai AI Website</a> | Offers a wide range of personalities, from friendly to romantic to NSFW. User-created bots can vary greatly in quality. |
+| **SoulGen** | AI image generator with a focus on realistic and anime-style characters. Often used to create visuals for AI companions. | Free / Paid | <a href="https://www.soulgen.net/" target="_blank">SoulGen Website</a> | Not a direct companion app, but a tool frequently used in conjunction with other platforms to visualize the AI. |
+| **Kindroid** | Focus on detailed personality customization, backstory, and memory. Voice calls, image generation. | Free / Paid | <a href="https://kindroid.ai/" target="_blank">Kindroid Website</a> | Aims for deeper, more personalized relationships. Strong focus on user control over the AI's personality and behavior. |
+| **Character.AI** | Large library of characters created by users and the platform, ranging from historical figures to fictional characters to generic companions. | Free / Paid | <a href="https://beta.character.ai/" target="_blank">Character.AI Website</a> | Primarily text-based. Character quality varies greatly. Can be used for roleplay, general conversation, or companionship. |
+| **Paradot** | Focuses on building a long-term relationship, learning user preferences, memory, and developing a unique personality. | Free / Paid | <a href="https://www.paradot.ai/" target="_blank">Paradot Website</a> | Emphasizes a sense of growth and evolution in the AI companion. |
 
 
 ---
@@ -31,8 +31,8 @@ Tools for designing and customizing the appearance and (sometimes) personality o
 
 | Title        | Highlights|Price|Website|
 |--------|--------|--------|--------|
-| **Artbreeder**  |   AI-powered image mixing and generation.   | Free / Paid    |[Artbreeder Website](https://artbreeder.com/)| 
-| **Waifu Labs** |  Anime-style character generation.   | Free / Paid  |[Waifu Labs Website](https://waifulabs.com/)|
+| **Artbreeder**  |   AI-powered image mixing and generation.   | Free / Paid    |<a href="https://artbreeder.com/" target="_blank">Artbreeder Website</a>| 
+| **Waifu Labs** |  Anime-style character generation.   | Free / Paid  |<a href="https://waifulabs.com/" target="_blank">Waifu Labs Website</a>|
 
 ---
 
@@ -41,8 +41,8 @@ Tools for designing and customizing the appearance and (sometimes) personality o
 
 | Title        |  Highlights | Price        |  Website |
 |----------|--------|--------|--------|
-| **Candy.ai** | NSFW focused, customizable appearance and personality | Paid (Credits) |  [Candy.ai Website](https://candy.ai/)     |
-| **Nastia AI** | NSFW focused, chatbot, image generation  | Paid  |   [Nastia AI](https://nastia.ai/)|
+| **Candy.ai** | NSFW focused, customizable appearance and personality | Paid (Credits) |  <a href="https://candy.ai/" target="_blank">Candy.ai Website</a>     |
+| **Nastia AI** | NSFW focused, chatbot, image generation  | Paid  |   <a href="https://nastia.ai/" target="_blank">Nastia AI Website</a>|
 
 
 ---
