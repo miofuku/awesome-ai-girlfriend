@@ -9,7 +9,7 @@
 
 ## 🚀 Quick Navigation
 
-🤖 [AI Companions (General)](#-ai-companions-general) | 💖 [AI Relationships](#-ai-relationships) | 🎨 [AI Characters](#-ai-characters) | 🌐 [Virtual Worlds](#-virtual-worlds) | 🔞 [NSFW AI (N18+)](#-nsfw-ai-n18)
+🤖 [AI Companions (General)](#-ai-companions-general) | 🎨 [AI Characters](#-ai-characters) | 🌐 [Virtual Worlds](#-virtual-worlds) | 🔞 [NSFW AI (N18+)](#-nsfw-ai-n18)
 
 
 ## 💞 AI Companions (General)
@@ -17,20 +17,13 @@ Best AI Girlfriend Products and Platforms. This list focuses on products explici
 
 | Title | Highlights | Price | Platform/Link | Notes |
 |-------|------------|-------|---------------|-------|
-| **Replika** | Highly customizable personality, emotional support, voice calls, AR mode (some features paid). Focus on mental wellness and companionship. | Free / Paid | [Replika Website](https://replika.com/) <br> [iOS App Store](link) <br> [Google Play Store](link) | Long-standing, popular option. Can be used as a friend, mentor, or romantic partner. Raises privacy concerns for some users. |
-| **Chai AI** | Multiple pre-made AI personalities, user-created bots, chat-focused. | Free / Paid | [Chai AI Website](https://www.chai-research.com/) <br> [iOS App Store](link) <br>[Google Play Store] | Offers a wide range of personalities, from friendly to romantic to NSFW. User-created bots can vary greatly in quality. |
+| **Replika** | Highly customizable personality, emotional support, voice calls, AR mode (some features paid). Focus on mental wellness and companionship. | Free / Paid | [Replika Website](https://replika.com/) <br> iOS App Store <br> Google Play Store | Long-standing, popular option. Can be used as a friend, mentor, or romantic partner. Raises privacy concerns for some users. |
+| **Chai AI** | Multiple pre-made AI personalities, user-created bots, chat-focused. | Free / Paid | [Chai AI Website](https://www.chai-research.com/) <br> iOS App Store <br> Google Play Store | Offers a wide range of personalities, from friendly to romantic to NSFW. User-created bots can vary greatly in quality. |
 | **SoulGen** | AI image generator with a focus on realistic and anime-style characters. Often used to create visuals for AI companions. | Free / Paid | [SoulGen Website](https://www.soulgen.net/) | Not a direct companion app, but a tool frequently used in conjunction with other platforms to visualize the AI. |
 | **Kindroid** | Focus on detailed personality customization, backstory, and memory. Voice calls, image generation. | Free / Paid | [Kindroid Website](https://kindroid.ai/) | Aims for deeper, more personalized relationships. Strong focus on user control over the AI's personality and behavior. |
 | **Character.AI** | Large library of characters created by users and the platform, ranging from historical figures to fictional characters to generic companions. | Free / Paid | [Character.AI Website](https://beta.character.ai/) | Primarily text-based. Character quality varies greatly. Can be used for roleplay, general conversation, or companionship. |
 | **Paradot** | Focuses on building a long-term relationship, learning user preferences, memory, and developing a unique personality. | Free / Paid | [Paradot Website](https://www.paradot.ai/) <br>[iOS App Store] <br>[Google Play Store] | Emphasizes a sense of growth and evolution in the AI companion. |
 
----
-## 💖 AI Relationships
-Games that simulate relationships, often with AI-controlled characters.
-| Title                  | Highlights  | Price      | Platform   |
-|--------------|------------------------|---------------------------|----------------|---------------|
-| **Love and Deepspace** (example)| 3D, dating sim with AI-powered characters. | Free / IAP  | [Mobile Link]|
-| **The Sims 4** (with Mods) | Can simulate relationship, use mods to enhance the interaction | Paid | PC/Console|
 
 ---
 ## 🎨 AI Characters
