@@ -9,16 +9,15 @@
 
 ## 🚀 Quick Navigation
 
-🤖 [AI Companions](#-ai-companions) | 💖 [AI Relationship Simulators](#-ai-relationship-simulators) | 🎨 [AI Character Creators](#-ai-character-creators) | 🌐 [Virtual Worlds](#-virtual-worlds) | 🔞 [NSFW AI (Caution)](#-nsfw-ai-caution)
+🤖 [AI Companions (General)](#-ai-companions-general) | 💖 [AI Relationships](#-ai-relationships) | 🎨 [AI Characters](#-ai-characters) | 🌐 [Virtual Worlds](#-virtual-worlds) | 🔞 [NSFW AI (N18+)](#-nsfw-ai-n18)
 
 
-## 💞 AI Companions
+## 💞 AI Companions (General)
 Best AI Girlfriend Products and Platforms. This list focuses on products explicitly marketed as or commonly used for AI companionship, with a focus on romantic or girlfriend-like interactions. Prices and features may change; always check the official website.
 
 | Title | Highlights | Price | Platform/Link | Notes |
 |-------|------------|-------|---------------|-------|
 | **Replika** | Highly customizable personality, emotional support, voice calls, AR mode (some features paid). Focus on mental wellness and companionship. | Free / Paid | [Replika Website](https://replika.com/) <br> [iOS App Store](link) <br> [Google Play Store](link) | Long-standing, popular option. Can be used as a friend, mentor, or romantic partner. Raises privacy concerns for some users. |
-| **Candy.ai** | NSFW-focused, customizable appearance and personality, image generation. | Paid (Credits) | [Candy.ai Website](https://candy.ai/) | Explicitly designed for adult users and fantasy fulfillment. |
 | **Chai AI** | Multiple pre-made AI personalities, user-created bots, chat-focused. | Free / Paid | [Chai AI Website](https://www.chai-research.com/) <br> [iOS App Store](link) <br>[Google Play Store] | Offers a wide range of personalities, from friendly to romantic to NSFW. User-created bots can vary greatly in quality. |
 | **SoulGen** | AI image generator with a focus on realistic and anime-style characters. Often used to create visuals for AI companions. | Free / Paid | [SoulGen Website](https://www.soulgen.net/) | Not a direct companion app, but a tool frequently used in conjunction with other platforms to visualize the AI. |
 | **Kindroid** | Focus on detailed personality customization, backstory, and memory. Voice calls, image generation. | Free / Paid | [Kindroid Website](https://kindroid.ai/) | Aims for deeper, more personalized relationships. Strong focus on user control over the AI's personality and behavior. |
@@ -26,7 +25,7 @@ Best AI Girlfriend Products and Platforms. This list focuses on products explici
 | **Paradot** | Focuses on building a long-term relationship, learning user preferences, memory, and developing a unique personality. | Free / Paid | [Paradot Website](https://www.paradot.ai/) <br>[iOS App Store] <br>[Google Play Store] | Emphasizes a sense of growth and evolution in the AI companion. |
 
 ---
-## 💖 AI Relationship Simulators
+## 💖 AI Relationships
 Games that simulate relationships, often with AI-controlled characters.
 | Title                  | Highlights  | Price      | Platform   |
 |--------------|------------------------|---------------------------|----------------|---------------|
@@ -34,7 +33,7 @@ Games that simulate relationships, often with AI-controlled characters.
 | **The Sims 4** (with Mods) | Can simulate relationship, use mods to enhance the interaction | Paid | PC/Console|
 
 ---
-## 🎨 AI Character Creators
+## 🎨 AI Characters
 Tools for designing and customizing the appearance and (sometimes) personality of AI characters.
 
 | Title        | Highlights|Price|
@@ -53,7 +52,7 @@ Platforms where users can interact with others and AI characters in a virtual en
 
 ---
 
-## 🔞 NSFW AI (Caution)
+## 🔞 NSFW AI (N18+)
 **Important:**  This section lists platforms known for explicit content.  User discretion is strongly advised.  Legal and ethical considerations apply.  Be aware of potential risks, including data privacy and exposure to harmful content.
 
 | Title        |  Highlights | Price        |  Platform/Link |
